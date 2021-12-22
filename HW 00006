@@ -23,7 +23,6 @@ for (let num of numbers) {
   sum += num;
 }
 return sum;
-};
 
 
 // IGNORE THIS BELOW. It is for the tests.
